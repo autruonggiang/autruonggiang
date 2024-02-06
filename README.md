@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning JavaScript, ReactJS and SEO.
 - ⚡ I love Tokusatsu.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=autruonggiang" alt="autruonggiang" /></a> </p>
 
 ## Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -28,8 +27,9 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
 ## Badges
-
 <b>My GitHub Stats</b>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=autruonggiang" alt="autruonggiang" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=autruonggiang&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="autruonggiang" /></p>
 
 <a href="http://www.github.com/autruonggiang"><img src="https://github-readme-stats.vercel.app/api?username=autruonggiang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="autruonggiang's GitHub stats" /></a>
