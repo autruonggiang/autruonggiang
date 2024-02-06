@@ -4,6 +4,8 @@
 **autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![](https://komarev.com/ghpvc/?username=autruonggiang&color=green)
+
 - 🌍  I'm based in Ho Chi Minh City.
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
 - 🌱 I’m currently learning JavaScript, ReactJS and SEO.
