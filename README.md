@@ -11,6 +11,10 @@
 - 🌱 I’m currently learning JavaScript, ReactJS and SEO.
 - ⚡ I love Tokusatsu.
 
+## Contact me:
+
+<a href="https://twitter.com/autruonggiang"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/autruonggiang"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ## Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
