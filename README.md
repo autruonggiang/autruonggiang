@@ -28,7 +28,7 @@
 
 ## Badges
 <b>My GitHub Stats</b>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=autruonggiang&theme=onestar" alt="autruonggiang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=autruonggiang&theme=onestar&row=3&column=4" alt="autruonggiang" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=autruonggiang&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="autruonggiang" /></p>
 
