@@ -1,10 +1,6 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Au+Truong+Giang;Information+Technology+Undergraduate;Web+Developer;Aspiring+Learner&center=true&weight=600&size=32&pause=1000&width=700&height=50"></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+You+can+me+James+Au.;I+Am+a+Web+Developer.;Also+an+aspiring+learner.;Feel+free+to+get+in+touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...">
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
@@ -18,7 +14,6 @@
 
 ![](https://komarev.com/ghpvc/?username=autruonggiang&color=0000FF)
 
-# You can call me James Au!
 - 🌍  I'm based in Ho Chi Minh City.
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
 - 🌱 I’m currently learning JavaScript, ReactJS and SEO.
