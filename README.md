@@ -28,7 +28,7 @@
 ## Technologies
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,linux,git,github,gcp,react,nodejs,express,vscode,figma,sass,vercel,jquery,powershell,bootstrap,discord,&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,linux,git,github,gcp,react,nodejs,vscode,figma,sass,vercel,jquery,powershell,discord,&perline=10" />
 </a>
 </p>
 
