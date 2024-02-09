@@ -1,6 +1,10 @@
 # Hi there 👋, you can call me James Au!
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Au+Truong+Giang;Information+Technology+Undergraduate;Web+Developer;Aspiring+Learner&center=true&weight=600&size=32&pause=1000&width=700&height=50"></a>
+</p>
+
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
