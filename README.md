@@ -1,4 +1,11 @@
 # Hi there 👋, you can call me James Au!
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
 <!--
 **autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
