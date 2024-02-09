@@ -1,6 +1,7 @@
-<img src="/assets/images/horizontal-divider-gradient.gif">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=1200&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.;I+am+a+Web+Developer.;Also+an+aspiring+learner.;Nice+to+meet+you+!!!+%F0%9F%98%84">
+
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
@@ -24,16 +25,12 @@
 <a href="https://twitter.com/autruonggiang"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/autruonggiang"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 ## Technologies
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,linux,git,github,gcp,react,nodejs,vscode,figma,sass,vercel,jquery,powershell,discord,&perline=10" />
 </a>
 </p>
-
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 ## My GitHub Stats
 <table>
