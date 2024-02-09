@@ -1,6 +1,6 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+You+can+me+James+Au.;I+Am+a+Web+Developer.;Also+an+aspiring+learner.;Feel+free+to+get+in+touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=1200&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.;I+am+a+Web+Developer.;Also+an+aspiring+learner.;Nice+to+meet+you+!!!+%F0%9F%98%84">
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
