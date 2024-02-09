@@ -1,4 +1,4 @@
-# Hi there 👋, my name is James Au!
+# Hi there 👋, you can call me James Au!
 
 <!--
 **autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
