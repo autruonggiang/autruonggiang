@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F33A6A&size=60&center=true&vCenter=true&width=1200&height=100&lines=Happy+Valentine's+Day+2024+!!!;Hello+%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.;I+am+a+Web+Developer.;Also+an+aspiring+learner.;Nice+to+meet+you+!!!+%F0%9F%98%84">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F33A6A&size=60&center=true&vCenter=true&width=1200&height=100&lines=Happy+Valentine's+Day+2024+❤️+❤️+❤️;Hello+%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.;I+am+a+Web+Developer.;Also+an+aspiring+learner.;Nice+to+meet+you+!!!+%F0%9F%98%84">
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
