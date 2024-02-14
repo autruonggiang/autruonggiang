@@ -29,7 +29,7 @@
 ## Languages and Tools
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,linux,git,github,gcp,react,nodejs,vscode,figma,sass,vercel,jquery,powershell,discord,&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,sass,jquery,git,github,react,angular,nodejs,gcp,vscode,linux,vim,figma,vercel,md,powershell,discord,&perline=10" />
 </a>
 </p>
 
