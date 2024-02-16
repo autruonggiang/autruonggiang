@@ -16,14 +16,8 @@
 ![](https://komarev.com/ghpvc/?username=autruonggiang&color=0000FF)
 
 - 🌍  I'm based in Ho Chi Minh City.
-<br/><br/>
-
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
-<br/><br/>
-
 - 🌱 I’m currently learning JavaScript, ReactJS and SEO.
-<br/><br/>
-
 - ⚡ I love Tokusatsu.
 
 ## Contact me:
