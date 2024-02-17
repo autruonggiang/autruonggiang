@@ -13,7 +13,7 @@
 **autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![](https://komarev.com/ghpvc/?username=autruonggiang&color=0000FF)
+![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
 - 🌍  I'm based in Ho Chi Minh City.
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
@@ -57,5 +57,3 @@
 </a>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
