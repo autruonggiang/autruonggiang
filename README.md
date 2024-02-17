@@ -13,7 +13,7 @@
 **autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Visitor
+## Profile views
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
 - 🌍  I'm based in Ho Chi Minh City.
