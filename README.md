@@ -57,3 +57,5 @@
 </a>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
