@@ -57,5 +57,3 @@
 </a>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-![snake animation](https://github.com/<seu autruonggiang>/<seu autruonggiang>/blob/output/github-contribution-grid-snake2.svg)
