@@ -38,10 +38,10 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=autruonggiang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="autruonggiang's GitHub stats" />
+            <img src="https://github-profile-trophy.vercel.app/?username=autruonggiang&theme=onestar&row=3&column=4" alt="autruonggiang" />
         </td>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=autruonggiang&theme=onestar&row=3&column=4" alt="autruonggiang" />
+            <img src="https://github-readme-stats.vercel.app/api?username=autruonggiang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="autruonggiang's GitHub stats" />
         </td> 
     </tr>
     <tr>
