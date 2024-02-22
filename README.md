@@ -26,10 +26,13 @@
 - ⚡ I love Tokusatsu.
 
 ## Contact me:
-
 <a href="https://www.facebook.com/autruonggiang.cbtg.uit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="59.02" height="14.88"/></a>
 <a href="https://twitter.com/autruonggiang"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="59.02" height="15.19"/></a>
 <a href="https://www.linkedin.com/in/autruonggiang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="59.02" height="14.88"/></a>
+
+<p align="left">
+<img src="https://img.cartoongoodies.com/wp-content/uploads/2021/04/Marsupilami-Cute-creature-300x258.png" width="100">
+</p>
 
 ## Languages and Tools
 <p align="center">
