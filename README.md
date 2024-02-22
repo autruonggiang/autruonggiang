@@ -7,8 +7,6 @@
                                          |___/ |___/               |___/ 
 ```
 
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <picture> 
 <a href="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=276">
@@ -63,5 +61,3 @@
 <a href="http://www.github.com/autruonggiang">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=autruonggiang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
-
-<img src="/assets/images/horizontal-divider-gradient.gif">
