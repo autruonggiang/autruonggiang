@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/autruonggiang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="59.02" height="14.88"/></a>
 
 <p align="left">
-<img src="https://img.cartoongoodies.com/wp-content/uploads/2021/04/Marsupilami-Cute-creature-300x258.png" width="100">
+<img src="https://img.cartoongoodies.com/wp-content/uploads/2021/04/Marsupilami-Cute-creature-300x258.png" width="160">
 </p>
 
 ## Languages and Tools
