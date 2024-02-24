@@ -37,7 +37,7 @@
 ## Languages and Tools
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,sass,bootstrap,git,github,react,nodejs,npm,gcp,vscode,linux,debian,figma,vercel,md,jquery,notion,discord,&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,sass,bootstrap,git,github,react,nodejs,npm,gcp,visualstudio,vscode,linux,ubuntu,debian,figma,vercel,md,powershell,jquery,notion,discord,&perline=10" />
 </a>
 </p>
 
