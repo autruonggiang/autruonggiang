@@ -16,7 +16,7 @@
 
 <picture> 
 <a href="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=216">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=200">
 </a>
 </picture>
 
