@@ -27,8 +27,9 @@
 
 ## Contact me:
 <a href="https://www.facebook.com/autruonggiang.cbtg.uit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="88.53" height="22.32"/></a>
-<a href="https://twitter.com/autruonggiang"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="88.53" height="22.785"/></a>
+<a href="https://twitter.com/autruonggiang"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="88.53" height="22.32"/></a>
 <a href="https://www.linkedin.com/in/autruonggiang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="88.53" height="22.32"/></a>
+<a href="21522019@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="88.53" height="22.32"/></a>
 
 <p align="left">
 <img src="https://img.cartoongoodies.com/wp-content/uploads/2021/04/Marsupilami-Cute-creature-300x258.png" width="256">
@@ -73,6 +74,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 ## My GitHub Stats
 <table>
