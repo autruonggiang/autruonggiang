@@ -7,17 +7,17 @@
                                          |___/ |___/               |___/ 
 ```
 
+<!--
+**autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+## Profile views
 <picture> 
 <a href="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=276">
 </a>
 </picture>
 
-<!--
-**autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## Profile views
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
 - 🌍  I'm based in Ho Chi Minh City.
