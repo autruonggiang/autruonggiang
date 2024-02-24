@@ -12,13 +12,13 @@
 -->
 
 ## Profile views
+![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
+
 <picture> 
 <a href="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=276">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=216">
 </a>
 </picture>
-
-![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
 - 🌍  I'm based in Ho Chi Minh City.
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
