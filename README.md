@@ -20,6 +20,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
+- 🔭 I'm a student at VNUHCM - University of Information Technology (UIT).
 - 🌍  I'm based in Ho Chi Minh City.
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
 - 🌱 I’m currently learning NodeJS, ReactJS and SEO.
