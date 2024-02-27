@@ -24,7 +24,8 @@
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
 - 🌱 I’m currently learning NodeJS, ReactJS and SEO.
 - 👨‍💻 All of my projects are available [here](https://github.com/autruonggiang?tab=repositories).
-- ⚡ I love Tokusatsu.
+- 👯 I’m looking to collaborate with everyone
+- ⚡ Funfact: I love Tokusatsu.
 
 ## Contact me:
 <a href="https://www.facebook.com/autruonggiang.cbtg.uit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="88.53" height="22.32"/></a>
