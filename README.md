@@ -14,7 +14,7 @@
 ## Profile views
 <picture> 
 <a href="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=432">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=420">
 </a>
 </picture>
 
