@@ -152,8 +152,8 @@
         </td> 
     </tr>
     <tr>
-        <td>            
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autruonggiang&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/username=autruonggiang&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=autruonggiang&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
