@@ -145,7 +145,7 @@
 <table>
     <tr>
         <td>
-          <img src="https://github-trophies.vercel.app/?username=autruonggiang&theme=onestar&row=3&column=4" alt="autruonggiang" />
+          <img src="https://github-trophies.vercel.app/?username=autruonggiang&theme=onestar" alt="autruonggiang" />
         </td>
         </td>
         <td>
