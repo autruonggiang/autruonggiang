@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=000080&size=60&center=true&vCenter=true&width=1200&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.;I+am+a+Web+Developer.;Also+an+aspiring+learner.;Nice+to+meet+you+!!!+%F0%9F%98%84">
-  
+
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
 ```
               _                                      _                   
    __ _ _   _| |_ _ __ _   _  ___  _ __   __ _  __ _(_) __ _ _ __   __ _ 
@@ -164,6 +166,8 @@
         </td>
     </tr>
 </table>
+
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <a href="http://www.github.com/autruonggiang">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=autruonggiang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
