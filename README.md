@@ -175,6 +175,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=F8-Shopee-Web-Building&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=Simple-Snake-Game&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="/assets/images/horizontal-divider-gradient.gif">
