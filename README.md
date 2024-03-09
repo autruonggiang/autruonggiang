@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.;I'm+learning+Web+Development.;Nice+to+meet+you+!!!+%F0%9F%98%84">
 
