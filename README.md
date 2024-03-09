@@ -189,15 +189,3 @@ Also+an+aspiring+learner.;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=F8-Shopee-Web-Building&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/https://github.com/autruonggiang">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/autruonggiang&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/autruonggiang&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https://github.com/autruonggiang&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https://github.com/autruonggiang&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/autruonggiang&theme=onedark" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/autruonggiang&theme=one-dark"/>
