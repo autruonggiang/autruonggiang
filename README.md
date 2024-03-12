@@ -30,10 +30,6 @@ Also+an+aspiring+learner.;
 
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@autruonggiang/30-nites-of-code)  
-  ![@autruonggiang #30NitesOfCode](https://www.codedex.io/api/petStatus?user=autruonggiang)
-
 - 🔭 I'm a student at VNUHCM - University of Information Technology (UIT).
 - 🌍  I'm based in Ho Chi Minh City.
 - ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
@@ -58,6 +54,12 @@ Also+an+aspiring+learner.;
 <p align="left">
 <img src="https://www.toei.co.jp/tv/king-ohger/story/__icsFiles/afieldfile/2023/06/22/4.jpg" width="360">
 </p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@autruonggiang/30-nites-of-code)  
+  ![@autruonggiang #30NitesOfCode](https://www.codedex.io/api/petStatus?user=autruonggiang)
+
+![#30NitesOfCode](https://scontent.cdninstagram.com/v/t51.29350-15/414692869_335624272660880_1427400469310165360_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDU2eDEwNTYuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=mrMAv_2STaYAX_KLBWU&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfDbK8r6rRcpaQ1WCjw7fzlSE1VBcTIwHLeVQX9UaX4LSA&oe=65F54CE6&_nc_sid=10d13b)
 
 ## Tech Stack
 ### Languages
