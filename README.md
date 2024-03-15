@@ -202,4 +202,6 @@ Also+an+aspiring+learner.;
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=F8-Shopee-Web-Building&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=W3-The-Band-F8-Web-Building&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="/assets/images/horizontal-divider-gradient.gif">
