@@ -61,7 +61,7 @@ Also+an+aspiring+learner.;
 </p>
 
 ## #30NitesOfCode:
-[Progress](https://www.codedex.io/@autruonggiang/30-nites-of-code)
+[#ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code)
 
 <img src="https://www.codedex.io/api/petStatus?user=autruonggiang" width="120">
   
