@@ -41,7 +41,7 @@ Also+an+aspiring+learner.;
 - 🌱 I’m *currently learning* React, Node.js and SEO.
 - 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
 - 👯 I’m *looking to collaborate* with everyone.
-- ⚡ Funfact: I love Tokusatsu.
+- ⚡ Funfact: I love **Tokusatsu**.
 
 ## Contact me:
 <p align="left">
