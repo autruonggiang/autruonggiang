@@ -35,12 +35,12 @@ Also+an+aspiring+learner.;
 
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
-- 🔭 I'm a student at VNUHCM - University of Information Technology (UIT).
-- 🌍  I'm based in Ho Chi Minh City.
-- ✉️  You can contact me at [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
-- 🌱 I’m currently learning React, Node.js and SEO.
-- 👨‍💻 All of my projects are available [here](https://github.com/autruonggiang?tab=repositories).
-- 👯 I’m looking to collaborate with everyone.
+- 🔭 I'm *a student* at VNUHCM - University of Information Technology (UIT).
+- 🌍  I'm *based in* Ho Chi Minh City.
+- ✉️  You can *contact me at* [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
+- 🌱 I’m *currently learning* React, Node.js and SEO.
+- 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
+- 👯 I’m *looking to collaborate* with everyone.
 - ⚡ Funfact: I love Tokusatsu.
 
 ## Contact me:
