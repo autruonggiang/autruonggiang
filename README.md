@@ -61,9 +61,7 @@ Also+an+aspiring+learner.;
 </p>
 
 ## #30NitesOfCode:
-[#ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code)
-
-Please click on the pet below to see the surprise!
+Please click on the [#ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code) pet below to see the surprise!
 
 <a href="https://www.duolingo.com/profile/autruonggiangUIT"><img src="https://www.codedex.io/api/petStatus?user=autruonggiang"></a>
   
