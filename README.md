@@ -70,7 +70,7 @@ Also+an+aspiring+learner.;
 -->
 
 <!--
-24/30
+25/30
 -->
 
 ## Tech Stack
