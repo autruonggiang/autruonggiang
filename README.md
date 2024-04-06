@@ -56,9 +56,11 @@ Also+an+aspiring+learner.;
 <a href="21522019@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="88.53" height="22.32"/></a>
 -->
 
+<!--
 <p align="left">
 <img src="https://www.toei.co.jp/tv/king-ohger/story/__icsFiles/afieldfile/2023/06/22/4.jpg" width="360">
 </p>
+-->
 
 ## #30NitesOfCode:
 [#ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code)
