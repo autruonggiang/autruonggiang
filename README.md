@@ -1,11 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Nice+to+meet+you+!+!+!+%F0%9F%98%84;%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.+%F0%9F%98%8E;I'm+learning+Web+Development.;">
 
-<!--
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Nice+to+meet+you+!+!+!+%F0%9F%98%84;%F0%9F%91%8B+My+name+is+Au+Truong+Giang.+%F0%9F%98%8E;You+can+call+me+James+Au.;I'm+learning+Web+Development.;">
--->
-
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 ```
@@ -16,15 +11,6 @@
   \__,_|\__,_|\__|_|   \__,_|\___/|_| |_|\__, |\__, |_|\__,_|_| |_|\__, |
                                          |___/ |___/               |___/ 
 ```
-
-<!--
-**autruonggiang/autruonggiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!--
-
-Also+an+aspiring+learner.;
--->
 
 ## Profile views
 <picture> 
@@ -54,12 +40,6 @@ Also+an+aspiring+learner.;
 <a href="https://twitter.com/autruonggiang"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="88.53" height="22.32"/></a>
 <a href="https://www.linkedin.com/in/autruonggiang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="88.53" height="22.32"/></a>
 <a href="21522019@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="88.53" height="22.32"/></a>
--->
-
-<!--
-<p align="left">
-<img src="https://www.toei.co.jp/tv/king-ohger/story/__icsFiles/afieldfile/2023/06/22/4.jpg" width="360">
-</p>
 -->
 
 ## #30NitesOfCode:
