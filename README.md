@@ -70,7 +70,7 @@ Also+an+aspiring+learner.;
 -->
 
 <!--
-25/30
+Now Codedex have NumPy
 -->
 
 ## Tech Stack
