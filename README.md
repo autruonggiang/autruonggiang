@@ -43,7 +43,7 @@
 -->
 
 ## #30NitesOfCode:
-[#ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code)
+[欧长江](https://www.codedex.io/@autruonggiang/30-nites-of-code)
 
 <img src="https://www.codedex.io/api/petStatus?user=autruonggiang">
 
