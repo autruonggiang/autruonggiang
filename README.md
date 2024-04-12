@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Nice+to+meet+you+!+!+!+%F0%9F%98%84;%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.+%F0%9F%98%8E;I'm+learning+Web+Development.;">
+
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
 ```
               _                                      _                   
    __ _ _   _| |_ _ __ _   _  ___  _ __   __ _  __ _(_) __ _ _ __   __ _ 
@@ -6,11 +11,6 @@
   \__,_|\__,_|\__|_|   \__,_|\___/|_| |_|\__, |\__, |_|\__,_|_| |_|\__, |
                                          |___/ |___/               |___/ 
 ```
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Nice+to+meet+you+!+!+!+%F0%9F%98%84;%F0%9F%91%8B+My+name+is+Au+Truong+Giang.;You+can+call+me+James+Au.+%F0%9F%98%8E;I'm+learning+Web+Development.;">
-
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 ## Profile views
 <picture> 
