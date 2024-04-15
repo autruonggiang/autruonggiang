@@ -35,11 +35,6 @@
 <a href="https://www.linkedin.com/in/autruonggiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/autruonggiang.cbtg.uit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="" height="30" width="40" /></a></p>
 
-<!--
-Learning Pathways
-AI-powered development with GitHub Copilot
--->
-
 ## #30NitesOfCode:
 [欧长江](https://www.codedex.io/@autruonggiang/30-nites-of-code)
 
