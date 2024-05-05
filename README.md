@@ -197,9 +197,6 @@ Remind UNIVERSE24
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=Simple-Snake-Game&cache_seconds=1800" alt="Top repositories" />
         </td>
         </td>
-        <!--<td>
-            <img src="" alt="Top repositories" />
-        </td>  -->
     </tr>
 </table>
 -->
