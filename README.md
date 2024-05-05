@@ -36,10 +36,6 @@
 <a href="https://www.facebook.com/autruonggiang.cbtg.uit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="" height="30" width="40" /></a></p>
 
 <!--
-Remind UNIVERSE24
--->
-
-<!--
 ## #30NitesOfCode:
 [＃ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=l3hcDYaejdorvrNIRi5d)
 
