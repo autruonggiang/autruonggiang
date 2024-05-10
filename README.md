@@ -40,7 +40,7 @@
 
 <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif">
 
-[欧长江](https://www.codedex.io/@autruonggiang/30-nites-of-code)
+[欧长江](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=mqmUcl7gWyqdW4QZVFMV)
 
 <img src="https://www.codedex.io/api/petStatus?user=autruonggiang">
 
