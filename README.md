@@ -44,6 +44,10 @@
 
 <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif">
 
+[James Au](https://www.codedex.io/@autruonggiang/30-nites-of-code)
+
+<img src="https://www.codedex.io/api/petStatus?user=autruonggiang">
+
 ## Tech Stack
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
