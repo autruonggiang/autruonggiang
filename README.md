@@ -42,7 +42,7 @@
 
 [欧长江](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=mqmUcl7gWyqdW4QZVFMV)
 
-<img src="https://www.codedex.io/api/petStatus?user=autruonggiang">
+<img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif">
 
 ## Tech Stack
 ### Languages
