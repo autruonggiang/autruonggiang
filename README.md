@@ -188,12 +188,15 @@
 
 ## #30NitesOfCode:
 [＃ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=l3hcDYaejdorvrNIRi5d)
+
 <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif">
 
 [欧长江](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=mqmUcl7gWyqdW4QZVFMV)
+
 <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif">
 
 [James Au](https://www.codedex.io/@autruonggiang/30-nites-of-code)
+
 <img src="https://www.codedex.io/api/petStatus?user=autruonggiang">
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
