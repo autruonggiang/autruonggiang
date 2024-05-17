@@ -186,7 +186,6 @@
 </table>
 -->
 
-<!--
 ## #30NitesOfCode:
 [＃ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=l3hcDYaejdorvrNIRi5d)
 
@@ -199,6 +198,5 @@
 [James Au](https://www.codedex.io/@autruonggiang/30-nites-of-code)
 
 <img src="https://www.codedex.io/api/petStatus?user=autruonggiang">
--->
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
