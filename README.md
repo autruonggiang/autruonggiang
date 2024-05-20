@@ -165,27 +165,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=autruonggiang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
-<!--
-## Top repositories:
-<table>
-    <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=F8-Shopee-Web-Building&cache_seconds=1800" alt="Top repositories" />
-        </td>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=W3-The-Band-F8-Web-Building&cache_seconds=1800" alt="Top repositories" />
-        </td> 
-    </tr>
-    <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=autruonggiang&repo=Simple-Snake-Game&cache_seconds=1800" alt="Top repositories" />
-        </td>
-        </td>
-    </tr>
-</table>
--->
-
 ## #30NitesOfCode:
 [＃ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=l3hcDYaejdorvrNIRi5d)
 
