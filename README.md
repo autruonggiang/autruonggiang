@@ -165,7 +165,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=autruonggiang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
-<!--
 ## #30NitesOfCode:
 [＃ナイスバイス](https://www.codedex.io/@autruonggiang/30-nites-of-code?pet=l3hcDYaejdorvrNIRi5d)
 
@@ -178,6 +177,5 @@
 [James Au](https://www.codedex.io/@autruonggiang/30-nites-of-code)
 
 <img src="https://www.codedex.io/api/petStatus?user=autruonggiang">
--->
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
