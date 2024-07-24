@@ -32,7 +32,7 @@
 - 🌱 I’m *currently learning* ReactJS.
 - 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
 - 👯 I’m *looking to collaborate* with everyone.
-- ⚡ Funfact: I love Tokusatsu.
+- ⚡ ファンファクト：特撮が大好き！
 
 ## Contact me:
 <p align="left">
