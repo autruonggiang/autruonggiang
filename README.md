@@ -1,5 +1,5 @@
 <p align="center">
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Nice+to+meet+you+!+!+!+%F0%9F%98%84;%F0%9F%91%8B+My+name+is+Âu+Trường+Giang.;You+can+call+me+James+Au.+%F0%9F%98%8E;I'm+learning+Web+Dev.;"> -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Nice+to+meet+you+!+!+!+%F0%9F%98%84;%F0%9F%91%8B+My+name+is+Âu+Trường+Giang.;You+can+call+me+James+Au.+%F0%9F%98%8E;I'm+learning+Web+Dev.;">
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
@@ -29,7 +29,7 @@
 <!--
 -  or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
 -->
-- 🌱 I’m *currently learning* about some exciting things.
+- 🌱 I’m *currently learning* about ???.
 - 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
 - 👯 I’m *looking to collaborate* with everyone.
 - ⚡ ファンファクト：特撮が大好き！
