@@ -23,13 +23,13 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
-- 🔭 I'm *a senior student* at VNUHCM - University of Information Technology (UIT).
+- 🔭 I'm *an ungraduated student* at VNUHCM - University of Information Technology (UIT).
 - 🌍  I'm *based in* Ho Chi Minh City.
 - ✉️  You can *contact me at* [truonggiangcbtg@gmail.com](mailto:truonggiangcbtg@gmail.com).
 <!--
 -  or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
 -->
-- 🌱 I’m *currently learning* about .
+- 🌱 I’m *currently learning* about ...
 - 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
 - 👯 I’m *looking to collaborate* with everyone.
 - ⚡ ファンファクト：特撮が大好き！
