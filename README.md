@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/autruonggiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://twitter.com/autruonggiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/autruonggiang.cbtg.uit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="" height="30" width="40" /></a></p>
+<a href="https://www.facebook.com/uit.autruonggiang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="" height="30" width="40" /></a></p>
 
 ## Tech Stack
 ### Languages
