@@ -29,7 +29,7 @@
 <!--
 -  or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
 -->
-- 🌱 I’m *currently learning* about ...
+- 🌱 I’m *currently learning* about my careers.
 - 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
 - 👯 I’m *looking to collaborate* with everyone.
 - ⚡ ファンファクト：特撮が大好き！
