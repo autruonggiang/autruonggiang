@@ -25,10 +25,8 @@
 
 - 🔭 I'm *an ungraduated student* at VNUHCM - University of Information Technology (UIT).
 - 🌍  I'm *based in* Ho Chi Minh City.
-- ✉️  You can *contact me at* [autruonggiang.uit@gmail.com](mailto:autruonggiang.uit@gmail.com).
-<!--
--  or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
--->
+- ✉️  You can *contact me at* [autruonggiang.uit@gmail.com](mailto:autruonggiang.uit@gmail.com) or [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn).
+
 - 🌱 I’m doing an internship.
 - 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
 - 👯 I’m *looking to collaborate* with everyone.
