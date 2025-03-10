@@ -15,11 +15,19 @@
 -->
 
 ## Profile views
+<picture>
+<a href="https://www.toei.co.jp/tv/king-ohger/story/__icsFiles/afieldfile/2023/06/22/4.jpg" alt="Developer">
+<img src="https://www.toei.co.jp/tv/king-ohger/story/__icsFiles/afieldfile/2023/06/22/4.jpg" align="right" width=480">
+</a>
+</picture>
+
+<!--
 <picture> 
 <a href="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width=420">
 </a>
 </picture>
+-->
 
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
 
@@ -31,17 +39,12 @@
 - 👨‍💻 All of my projects are *available* [here](https://github.com/autruonggiang?tab=repositories).
 - 👯 I’m *looking to collaborate* with everyone.
 - ⚡ ファンファクト：特撮が大好き！
-- 
 
 ## Contact me:
 <p align="left">
 <a href="https://www.linkedin.com/in/autruonggiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://twitter.com/autruonggiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/autruonggiang.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="" height="30" width="40" /></a></p>
-
-<p align="left">
-<img src="https://www.toei.co.jp/tv/king-ohger/story/__icsFiles/afieldfile/2023/06/22/4.jpg" width="360">
-</p>
 
 ## Tech Stack
 ### Languages
