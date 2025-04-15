@@ -48,36 +48,31 @@
 
 ## Tech Stack
 ### Languages
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
-
-<!--
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
--->
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)]
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)]
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)]
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)]
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)]
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)]
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)]
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)]
+![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)]
 
 ### IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)]
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)]
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
