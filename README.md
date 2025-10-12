@@ -30,7 +30,7 @@
 -->
 
 ![Visitor Count](https://profile-counter.glitch.me/autruonggiangbrunnerlivio/count.svg)
-- 🔭 I'm currently a student at **VNUHCM - University of Information Technology (UIT)**.  
+- 🔭 I'm an alumnus at **VNUHCM - University of Information Technology (UIT)**.  
 - 🌍 Based in **Ho Chi Minh City, Vietnam**.  
 - ✉️ Feel free to contact me at:  
   [autruonggiang.uit@gmail.com](mailto:autruonggiang.uit@gmail.com) | [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn)  
