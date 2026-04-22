@@ -34,7 +34,7 @@
 - 🌍 Based in **Ho Chi Minh City, Vietnam**.  
 - ✉️ Feel free to contact me at:  
   [autruonggiang.uit@gmail.com](mailto:autruonggiang.uit@gmail.com) | [21522019@gm.uit.edu.vn](mailto:21522019@gm.uit.edu.vn)  
-- 🌱 I'm currently pursuing an **internship** to gain hands-on experience.  
+- 🌱 I'm currently pursuing an **Software Engineer** to gain hands-on experience.  
 - 👨‍💻 You can check out all of my projects [here](https://github.com/autruonggiang?tab=repositories).  
 - 👯 I'm open to **collaborating on meaningful projects** with others.  
 - ⚡ **Fun fact**: I'm a huge fan of **Tokusatsu (特撮)** – Japanese special effects shows!
